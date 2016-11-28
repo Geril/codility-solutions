@@ -1,1 +1,1 @@
-# Solutions for Codility Assignments
+# My Solutions for Codility Assignments
