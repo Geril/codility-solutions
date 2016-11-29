@@ -32,4 +32,4 @@ the function should return 3, because the frog will be positioned as follows:
 
 
 ### Solution
-[solution.js](https://github.com/Geril/codility-solutions/blob/master/time-complexity/frogjmp/solution.js) (Task score: 100%)
+[solution.js](https://github.com/Geril/codility-solutions/blob/master/timeComplexity/frogJmp/solution.js) (Task score: 100%)
