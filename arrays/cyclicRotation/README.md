@@ -17,6 +17,7 @@ For example, given array A = [3, 8, 9, 7, 6] and K = 3, the function should retu
 - each element of array A is an integer within the range [−1,000..1,000].
 
 **Complexity:**
+
 In your solution, focus on correctness. The performance of your solution will not be the focus of the assessment.
 
 ### Solution
