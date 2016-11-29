@@ -18,6 +18,7 @@ Given P = 10 players and C = 3 courts, the function should return 3, as at most 
 - P and C are integers within the range [1..30,000].
 
 **Complexity:** 
+
 In your solution, focus on correctness. The performance of your solution will not be the focus of the assessment.
 
 ### Solution
